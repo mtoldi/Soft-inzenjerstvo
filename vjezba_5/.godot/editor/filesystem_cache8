@@ -1,0 +1,264 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1716121458
+button_theme.tres::Theme::7106964685045323859::1716121166::0::1::::<><>::uid://dskmdk146n4rq::::res://art/pixel_rpg.ttf
+export_presets.cfg::TextFile::-1::1716121352::0::1::::<><>::
+main_theme.tres::Theme::1737601703673483046::1714657924::0::1::::<><>::uid://dskmdk146n4rq::::res://art/pixel_rpg.ttf
+::res://art/::1716121449
+8_bit_iced_village_lofi.mp3::AudioStreamMP3::8218554787359265850::1712654118::1712654119::1::::<><>::
+arrow.png::CompressedTexture2D::2515448857286657013::1712654118::1712654120::1::::<><>::
+arroww.png::CompressedTexture2D::9038507534566677287::1714390694::1714390714::1::::<><>::
+attack.png::CompressedTexture2D::7911113587650443992::1712859302::1712860997::1::::<><>::
+attack_rework.png::CompressedTexture2D::2865752884027887196::1714463441::1716121449::1::::<><>::
+axe.ogg::AudioStreamOggVorbis::4255609869805307097::1712654118::1712654120::1::::<><>::
+background.png::CompressedTexture2D::7706065856370946190::1712923404::1716121449::1::::<><>::
+block.ogg::AudioStreamOggVorbis::7575971621101921150::1712654118::1712654120::1::::<><>::
+boss_icon.png::CompressedTexture2D::6137036392874553493::1715784980::1716121449::1::::<><>::
+card_icon.png::CompressedTexture2D::3504321070397366971::1715764167::1716121449::1::::<><>::
+coin.png::CompressedTexture2D::533904507250461646::1715704399::1716121449::1::::<><>::
+defend.png::CompressedTexture2D::8099116373750980346::1712858088::1712858305::1::::<><>::
+defend_rework.png::CompressedTexture2D::3849884331667558474::1714464261::1716121449::1::::<><>::
+enemy_attack.ogg::AudioStreamOggVorbis::220495020690451987::1712654118::1712654120::1::::<><>::
+enemy_block.ogg::AudioStreamOggVorbis::770794073115788987::1712654118::1712654120::1::::<><>::
+frog.png::CompressedTexture2D::1532944544854154593::1712777716::1712777731::1::::<><>::
+frogger.png::CompressedTexture2D::7126892587561930041::1715159667::1716121449::1::::<><>::
+heart.png::CompressedTexture2D::8922467373508231783::1712654118::1712654120::1::::<><>::
+heart_icon.png::CompressedTexture2D::1982260986912639010::1713174431::1713174462::1::::<><>::
+Hydrate!.png::CompressedTexture2D::4161291371228804369::1714410892::1714410914::1::::<><>::
+hydrate_rework.png::CompressedTexture2D::7707685082828270955::1714464396::1716121449::1::::<><>::
+lillypad.png::CompressedTexture2D::5753151796381181124::1715784123::1716121449::1::::<><>::
+line.png::CompressedTexture2D::1065782427967133361::1715787430::1716121449::1::::<><>::
+mage skelly.png::CompressedTexture2D::4047554292838608157::1712685045::1712685050::1::::<><>::
+mana bottle2.png::CompressedTexture2D::1718206321122777597::1714392251::1716121449::1::::<><>::
+mana bottle3.png::CompressedTexture2D::5682017070569873776::1714392261::1716121449::1::::<><>::
+mana bottle4.png::CompressedTexture2D::2907161896404267192::1714392269::1716121449::1::::<><>::
+mana bottle.png::CompressedTexture2D::1517180692963210247::1712997055::1716121449::1::::<><>::
+pixel_rpg.ttf::FontFile::8444039542157411134::1712654118::1712654119::1::::<><>::
+player_heart.png::CompressedTexture2D::8028844922091277821::1712654118::1712654120::1::::<><>::
+Pond scene.png::CompressedTexture2D::1243150706026350894::1715970696::1716121449::1::::<><>::
+potatoes.png::CompressedTexture2D::1632437813311959124::1715973295::1716121449::1::::<><>::
+shield_icon.png::CompressedTexture2D::6431662803349634965::1713172504::1713172627::1::::<><>::
+shop.png::CompressedTexture2D::7623614507180496443::1715784430::1716121449::1::::<><>::
+skellyanimatedpractice.png::CompressedTexture2D::3439143302229487519::1714073079::1716121152::1::::<><>::
+skelly_normal.png::CompressedTexture2D::7186171707483403648::1713094765::1713094781::1::::<><>::
+skull_map_icon.png::CompressedTexture2D::6826012816948293465::1715783042::1716121449::1::::<><>::
+slash.ogg::AudioStreamOggVorbis::7768880665528329024::1712654118::1712654120::1::::<><>::
+startScreen.png::CompressedTexture2D::8144933572631048690::1715153641::1716121449::1::::<><>::
+tile_0074.png::CompressedTexture2D::8884033834016053119::1712654118::1712654120::1::::<><>::
+tile_0082.png::CompressedTexture2D::4002795060728794942::1712654118::1712654120::1::::<><>::
+tile_0084.png::CompressedTexture2D::8223413644522044150::1712654118::1712654120::1::::<><>::
+tile_0085.png::CompressedTexture2D::4238770441698921399::1712654118::1712654120::1::::<><>::
+tile_0086.png::CompressedTexture2D::3076431653718961477::1712654118::1712654120::1::::<><>::
+tile_0087.png::CompressedTexture2D::5875439317484333102::1712654119::1712654120::1::::<><>::
+tile_0088.png::CompressedTexture2D::186153137490434430::1712654119::1712654120::1::::<><>::
+tile_0089.png::CompressedTexture2D::534724299165909652::1712654119::1712654120::1::::<><>::
+tile_0090.png::CompressedTexture2D::8967560349299240709::1712654119::1712654120::1::::<><>::
+tile_0091.png::CompressedTexture2D::598694394643319616::1712654119::1712654120::1::::<><>::
+tile_0092.png::CompressedTexture2D::8749696663508008586::1712654119::1712654120::1::::<><>::
+tile_0096.png::CompressedTexture2D::7989202558416289275::1712654119::1712654120::1::::<><>::
+tile_0097.png::CompressedTexture2D::3800473672780554070::1712654119::1712654120::1::::<><>::
+tile_0098.png::CompressedTexture2D::3452297864016984717::1712654119::1712654120::1::::<><>::
+tile_0099.png::CompressedTexture2D::7365851855546971730::1712654119::1712654120::1::::<><>::
+tile_0100.png::CompressedTexture2D::8787978924203929137::1712654119::1712654120::1::::<><>::
+tile_0101.png::CompressedTexture2D::3012847328859373963::1712654119::1712654120::1::::<><>::
+tile_0102.png::CompressedTexture2D::992883284762654640::1712654119::1712654120::1::::<><>::
+tile_0103.png::CompressedTexture2D::2781248649735601739::1712654119::1712654120::1::::<><>::
+tile_0104.png::CompressedTexture2D::6984527130244206005::1712654119::1712654120::1::::<><>::
+tile_0105.png::CompressedTexture2D::4014201421364640329::1712654119::1712654120::1::::<><>::
+tile_0106.png::CompressedTexture2D::3569817923891856408::1712654119::1712654120::1::::<><>::
+tile_0107.png::CompressedTexture2D::8161167421964706004::1712654119::1712654120::1::::<><>::
+tile_0108.png::CompressedTexture2D::6729320284687216710::1712654119::1712654120::1::::<><>::
+tile_0109.png::CompressedTexture2D::3917487224837590086::1712654119::1712654120::1::::<><>::
+tile_0110.png::CompressedTexture2D::1867900833749955923::1712654119::1712654120::1::::<><>::
+tile_0111.png::CompressedTexture2D::5304207356176217279::1712654119::1712654120::1::::<><>::
+tile_0112.png::CompressedTexture2D::1808540646150810623::1712654119::1712654120::1::::<><>::
+tile_0113.png::CompressedTexture2D::6818544428533127252::1712654119::1712654120::1::::<><>::
+tile_0114.png::CompressedTexture2D::1091080227403393623::1712654119::1712654120::1::::<><>::
+tile_0115.png::CompressedTexture2D::3390389105401342605::1712654119::1712654120::1::::<><>::
+tile_0116.png::CompressedTexture2D::6715880807301488874::1712654119::1712654120::1::::<><>::
+tile_0117.png::CompressedTexture2D::61643892229156728::1712654119::1712654120::1::::<><>::
+tile_0118.png::CompressedTexture2D::5900012622666615627::1712654119::1712654120::1::::<><>::
+tile_0119.png::CompressedTexture2D::5529609408940523217::1712654119::1712654120::1::::<><>::
+tile_0120.png::CompressedTexture2D::5784248874370544812::1712654119::1712654120::1::::<><>::
+tile_0121.png::CompressedTexture2D::5223828987879230056::1712654119::1712654120::1::::<><>::
+tile_0122.png::CompressedTexture2D::1425095493375510866::1712654119::1712654120::1::::<><>::
+tile_0123.png::CompressedTexture2D::9098943751382417916::1712654119::1712654120::1::::<><>::
+tile_0124.png::CompressedTexture2D::4705747231200669021::1712654119::1712654120::1::::<><>::
+tile_0125.png::CompressedTexture2D::1047381317283852577::1712654119::1712654120::1::::<><>::
+tile_0126.png::CompressedTexture2D::5547545542739303314::1712654119::1712654120::1::::<><>::
+tile_0127.png::CompressedTexture2D::5741203214683415526::1712654119::1712654120::1::::<><>::
+tile_0128.png::CompressedTexture2D::207876841754131445::1712654119::1712654120::1::::<><>::
+tile_0129.png::CompressedTexture2D::418169446071867658::1712654119::1712654120::1::::<><>::
+tile_0130.png::CompressedTexture2D::1065825416637778134::1712654119::1712654120::1::::<><>::
+tile_0131.png::CompressedTexture2D::6611441545928764225::1712654119::1712654120::1::::<><>::
+treasure.png::CompressedTexture2D::7177401352114132139::1715784003::1716121449::1::::<><>::
+white_sprite_material.gdshader::Shader::-1::1712654119::0::1::::<><>::
+white_sprite_material.tres::ShaderMaterial::9176188161803125320::1712654119::0::1::::<><>::res://art/white_sprite_material.gdshader
+::res://art/Backgrounds/::1716121446
+::res://art/cardpileUI/::1715180967
+card_pile_discard-export.png::CompressedTexture2D::8920585739778494456::1715180766::1715180885::1::::<><>::
+card_pile_draw.png::CompressedTexture2D::191361232182277884::1715180832::1715180885::1::::<><>::
+card_pile_normal.png::CompressedTexture2D::7488036355407920629::1715180933::1715180967::1::::<><>::
+::res://art/cards/::1716121436
+::res://art/enemy sprite sheets/::1716121145
+mage skelly.png::CompressedTexture2D::7836794151021882282::1716020251::1716020288::1::::<><>::
+::res://art/frog anim/::1716121426
+::res://art/Mana bottle UI/::1716121409
+::res://art/pond/::1716121449
+Pond scene1.png::CompressedTexture2D::7038726355819648060::1715950352::1716121449::1::::<><>::
+Pond scene2.png::CompressedTexture2D::6127053673626868144::1715950352::1716121449::1::::<><>::
+Pond scene3.png::CompressedTexture2D::5707070390524850549::1715950352::1716121449::1::::<><>::
+::res://battles/::1716121166
+battle_stats_pool.tres::Resource/BattleStatsPool::5034689533711371403::1716121166::0::1::::<><>::res://custom_resources/battle_stats_pool.gd<>uid://bycnv08ijwean::::res://battles/tier_0_normal_skelly2.tres<>uid://lkjy1dgjnx4x::::res://battles/tier_0_normal_skelly.tres<>uid://hf7xxj7areqi::::res://battles/tier_1_normal_skelly.tres<>uid://bb3p0w3pffx4c::::res://battles/tier_0_mage_normal.tres
+tier_0mn.tscn::PackedScene::6232157548813308367::1716038440::0::1::::<><>::uid://1hvruqvw54in::::res://scenes/enemy/enemy.tscn<>uid://dn22r4fj3y44n::::res://enemies/skelly_normal/skelly_normal_enemy.tres<>uid://b1loqkk38ebla::::res://enemies/skelly_normal/animated_sprite_2d.tscn<>uid://bva3gagrqu2tq::::res://enemies/skelly_mage/skelly_mage.tres<>uid://dxcu2kt2t85bx::::res://enemies/skelly_mage/animated_sprite_2d2.tscn
+tier_0ns.tscn::PackedScene::5076105296017684287::1716038441::0::1::::<><>::uid://1hvruqvw54in::::res://scenes/enemy/enemy.tscn<>uid://dn22r4fj3y44n::::res://enemies/skelly_normal/skelly_normal_enemy.tres<>uid://b1loqkk38ebla::::res://enemies/skelly_normal/animated_sprite_2d.tscn
+tier_0_mage_normal.tres::Resource/Resource::2515368703640590480::1716020736::0::1::::<><>::res://custom_resources/battle_stats.gd<>uid://cu15yvj4jycih::::res://battles/tier_0mn.tscn
+tier_0_normal_skelly2.tres::Resource/Resource::4075909873530643741::1716017048::0::1::::<><>::uid://c10mpayeagyc6::::res://battles/tier_02ns.tscn<>res://custom_resources/battle_stats.gd
+tier_0_normal_skelly.tres::Resource/Resource::793311740074264773::1716017048::0::1::::<><>::res://custom_resources/battle_stats.gd<>uid://cek5yh06hqauh::::res://battles/tier_0ns.tscn
+tier_1_normal_skelly.tres::Resource/Resource::503629034659764992::1716017048::0::1::::<><>::res://custom_resources/battle_stats.gd<>uid://dw0ivyve1b0tv::::res://battles/tier_13ns.tscn
+tier_02ns.tscn::PackedScene::6650116173905620851::1716023939::0::1::::<><>::uid://1hvruqvw54in::::res://scenes/enemy/enemy.tscn<>uid://dn22r4fj3y44n::::res://enemies/skelly_normal/skelly_normal_enemy.tres<>uid://b1loqkk38ebla::::res://enemies/skelly_normal/animated_sprite_2d.tscn
+tier_13ns.tscn::PackedScene::8755550585799496039::1716023939::0::1::::<><>::uid://1hvruqvw54in::::res://scenes/enemy/enemy.tscn<>uid://dn22r4fj3y44n::::res://enemies/skelly_normal/skelly_normal_enemy.tres<>uid://b1loqkk38ebla::::res://enemies/skelly_normal/animated_sprite_2d.tscn
+::res://characters/::1714409733
+::res://characters/Frog/::1716121166
+frog.tres::Resource/Resource::2747139704362196434::1715764545::0::1::::<><>::res://custom_resources/character_stats.gd<>uid://v3tmw3eb2lnt::::res://art/frog.png<>uid://ik2eg3n8kakp::::res://characters/Frog/frog_card_reward_pool.tres<>uid://bww4wc06082mf::::res://characters/Frog/starting_deck.tres
+frog_card_reward_pool.tres::Resource/CardPile::583801387654948451::1716121166::0::1::::<><>::res://custom_resources/card_pile.gd<>uid://bkgndo5nj3viv::::res://characters/Frog/cards/frog_block.tres<>uid://dl60kmo2dncak::::res://characters/Frog/cards/frog_hydrate.tres<>uid://q78qa7inpqme::::res://characters/Frog/cards/frog_potatoes.tres
+starting_deck.tres::Resource/CardPile::3977791779685309633::1716121166::0::1::::<><>::uid://colal2y07tb0h::::res://characters/Frog/cards/frog_attack.tres<>uid://bkgndo5nj3viv::::res://characters/Frog/cards/frog_block.tres<>uid://dl60kmo2dncak::::res://characters/Frog/cards/frog_hydrate.tres<>res://custom_resources/card_pile.gd
+::res://characters/Frog/cards/::1716121166
+attack.gd::GDScript::-1::1715789890::0::1::::<>Card<>::
+block.gd::GDScript::-1::1715789890::0::1::::<>Card<>::
+frog_attack.tres::Resource::5778214433731423893::1716121166::0::1::::<><>::uid://bg3gscgsjqjom::::res://art/cards/attack_rework.png<>res://characters/Frog/cards/attack.gd
+frog_block.tres::Resource::3101490847160309385::1716121166::0::1::::<><>::uid://bu36bdsdngw15::::res://art/cards/defend_rework.png<>res://characters/Frog/cards/block.gd
+frog_hydrate.gd::GDScript::-1::1716027261::0::1::::<>Card<>::
+frog_hydrate.tres::Resource::7996871477370465290::1716121166::0::1::::<><>::uid://dh2wpg8bhgqx4::::res://art/cards/hydrate_rework.png<>res://characters/Frog/cards/frog_hydrate.gd
+frog_potatoes.gd::GDScript::-1::1716038436::0::1::::<>Card<>::
+frog_potatoes.tres::Resource::1191113869617408164::1716121166::0::1::::<><>::uid://xi1aog1l1653::::res://art/cards/potatoes.png<>res://characters/Frog/cards/frog_potatoes.gd
+::res://custom_resources/::1716029072
+battle_stats.gd::GDScript::-1::1715847511::0::1::::BattleStats<>Resource<>::
+battle_stats_pool.gd::GDScript::-1::1715849407::0::1::::BattleStatsPool<>Resource<>::
+card.gd::GDScript::-1::1716029072::0::1::::Card<>Resource<>::
+card_pile.gd::GDScript::-1::1716027451::0::1::::CardPile<>Resource<>::
+character_stats.gd::GDScript::-1::1715789892::0::1::::CharacterStats<>Stats<>::
+effect.gd::GDScript::-1::1715789892::0::1::::Effect<>RefCounted<>::
+enemy_stats.gd::GDScript::-1::1715789892::0::1::::EnemyStats<>Stats<>::
+room.gd::GDScript::-1::1715849111::0::1::::Room<>Resource<>::
+run_startup.gd::GDScript::-1::1715789894::0::1::::RunStartup<>Resource<>::
+run_stats.gd::GDScript::-1::1715789894::0::1::::RunStats<>Resource<>::
+stats.gd::GDScript::-1::1715789894::0::1::::Stats<>Resource<>::
+::res://effects/::1715789893
+block_effect.gd::GDScript::-1::1715789890::0::1::::BlockEffect<>Effect<>::
+damage_effect.gd::GDScript::-1::1715789892::0::1::::DamageEffect<>Effect<>::
+heal_effect.gd::GDScript::-1::1715789893::0::1::::HealEffect<>Effect<>::
+::res://enemies/::1715929818
+::res://enemies/fire/::1715154636
+fireskelly.png::CompressedTexture2D::3218074587720512664::1712906844::1715154636::1::::<><>::
+::res://enemies/skelly_mage/::1716039774
+animated_sprite_2d2.tscn::PackedScene::8778997322391192969::1716038440::0::1::::<><>::uid://djwg4cba4whrm::::res://art/enemy sprite sheets/mage skelly.png
+mage_block_action.gd::GDScript::-1::1715931215::0::1::::<>EnemyAction<>::
+mage_cast_action.gd::GDScript::-1::1716021133::0::1::::<>EnemyAction<>::
+skelly_mage.tres::Resource/Resource::3862097200716099522::1716039774::0::1::::<><>::uid://8w4yi58eely6::::res://enemies/skelly_mage/skelly_mage_enemy_ai_picker.tscn<>res://custom_resources/enemy_stats.gd<>uid://bxwwvl163w50d::::res://art/mage skelly.png
+skelly_mage_enemy_ai_picker.tscn::PackedScene::2363452270524147451::1716023939::0::1::::<><>::res://scenes/enemy/enemy_action_picker.gd<>res://enemies/skelly_mage/mage_cast_action.gd<>res://enemies/skelly_mage/mage_block_action.gd
+::res://enemies/skelly_normal/::1716039774
+animated_sprite_2d.gd::GDScript::-1::1716019177::0::1::::SkellyNormalAnimated<>AnimatedSprite2D<>::
+animated_sprite_2d.tscn::PackedScene::4234917926175804714::1716023939::0::1::::<><>::uid://xyjrtnj1gf4h::::res://art/skellyanimatedpractice.png<>res://enemies/skelly_normal/animated_sprite_2d.gd
+mega_block_action.gd::GDScript::-1::1715789893::0::1::::<>EnemyAction<>::
+skelly_attack_action.gd::GDScript::-1::1715789894::0::1::::<>EnemyAction<>::
+skelly_block_action.gd::GDScript::-1::1715789894::0::1::::<>EnemyAction<>::
+skelly_normal_enemy.tres::Resource/Resource::8129126466382906171::1716039774::0::1::::<><>::uid://wnda8jodsjnh::::res://enemies/skelly_normal/skelly_normal_enemy_ai.tscn<>res://custom_resources/enemy_stats.gd<>uid://danbg0aq00n8s::::res://art/skelly_normal.png
+skelly_normal_enemy_ai.tscn::PackedScene::1571175369632406693::1713961821::0::1::::<><>::res://scenes/enemy/enemy_action_picker.gd<>res://enemies/skelly_normal/skelly_attack_action.gd<>res://enemies/skelly_normal/skelly_block_action.gd<>res://enemies/skelly_normal/mega_block_action.gd
+::res://exe datoteka/::1716121356
+::res://fonts/::1715154448
+DEMO - PERSONAL USE ONLY - CalligraphyFont net.txt::TextFile::-1::1638805018::0::1::::<><>::
+DrippedInkDemoRegular.ttf::FontFile::5756924999867685722::1635362958::1715154028::1::::<><>::
+KiwiSoda.ttf::FontFile::2869435101531058854::1533717782::1715154448::1::::<><>::
+Lacquer-Regular.ttf::FontFile::4186789195045160560::1663824430::1715154120::1::::<><>::
+OFL.txt::TextFile::-1::1715154106::0::1::::<><>::
+::res://global/::1716024946
+events.gd::GDScript::-1::1716024946::0::1::::<>Node<>::
+::res://scenes/::1716024834
+::res://scenes/battle/::1716038440
+battle.gd::GDScript::-1::1716025542::0::1::::Battle<>Node2D<>::
+battle.tscn::PackedScene::1273195681249805986::1716038440::0::1::::<><>::res://scenes/battle/battle.gd<>uid://cp4iq5fd6j8be::::res://art/background.png<>res://scenes/ui/hand.gd<>uid://1hvruqvw54in::::res://scenes/enemy/enemy.tscn<>uid://rt0xxtfgc48k::::res://scenes/player/player.tscn<>uid://bqaqs5mwlygjk::::res://scenes/card_target_selector/card_target_selector.tscn<>res://scenes/enemy/enemy_handler.gd<>uid://bfey8v7aj8qwo::::res://characters/Frog/frog.tres<>uid://dn22r4fj3y44n::::res://enemies/skelly_normal/skelly_normal_enemy.tres<>uid://b1loqkk38ebla::::res://enemies/skelly_normal/animated_sprite_2d.tscn<>uid://bva3gagrqu2tq::::res://enemies/skelly_mage/skelly_mage.tres<>res://scenes/ui/battle_ui.gd<>res://scenes/player/player_handler.gd<>uid://c1pavy2fu20eu::::res://scenes/ui/mana_ui.tscn<>uid://y0ybtns8v84q::::res://main_theme.tres<>uid://c8iww1ssy8m72::::res://button_theme.tres<>uid://cs2762dq4nr45::::res://scenes/ui/card_pile_opener.tscn<>uid://c2gikbmtandy::::res://scenes/ui/card_pile_view.tscn<>uid://cyxxroehaxi7::::res://art/cardpileUI/card_pile_draw.png<>uid://cp4sjmbj8hydx::::res://scenes/ui/battle_over_panel.tscn<>uid://d0dg0j4d2c6a3::::res://art/cardpileUI/card_pile_discard-export.png
+::res://scenes/campfire/::1716023938
+campfire.gd::GDScript::-1::1716021661::0::1::::Campfire<>Control<>::
+campfire.tscn::PackedScene::4617290939803232454::1716023938::0::1::::<><>::res://scenes/campfire/campfire.gd<>uid://y0ybtns8v84q::::res://main_theme.tres<>uid://rygrme00rb4y::::res://art/Backgrounds/Pond scene.png<>uid://c8iww1ssy8m72::::res://button_theme.tres<>uid://dcuabvc1vpftn::::res://art/frogger.png
+::res://scenes/card_target_selector/::1715789891
+card_arc.tscn::PackedScene::5609728478095111320::1713961820::0::1::::<><>::
+card_target_selector.gd::GDScript::-1::1715789891::0::1::::<>Node2D<>::
+card_target_selector.tscn::PackedScene::3510447393329557636::1714391214::0::1::::<><>::uid://cl6nn5foup4dg::::res://scenes/card_target_selector/card_arc.tscn<>res://scenes/card_target_selector/card_target_selector.gd
+::res://scenes/card_ui/::1716038441
+card_drag_style_box.tres::StyleBoxFlat::4082479566358995685::1712863794::0::1::::<><>::
+card_hover_style_box.tres::StyleBoxFlat::4244054103876433472::1712863794::0::1::::<><>::
+card_state_machine.gd::GDScript::-1::1715789891::0::1::::CardStateMachine<>Node<>::
+card_ui.gd::GDScript::-1::1715789892::0::1::::CardUI<>Control<>::
+card_ui.tscn::PackedScene::7605299295153636004::1716038441::0::1::::<><>::uid://y0ybtns8v84q::::res://main_theme.tres<>res://scenes/card_ui/card_ui.gd<>res://scenes/card_ui/card_state_machine.gd<>uid://dkyg5daqq6ra3::::res://art/attack.png<>uid://d1ko1cflvpr6q::::res://scenes/card_ui/classic_style_box.tres<>res://scenes/card_ui/card_states/card_base_state.gd<>res://scenes/card_ui/card_states/card_clicked_state.gd<>res://scenes/card_ui/card_states/card_dragging_state.gd<>res://scenes/card_ui/card_states/card_released_state.gd<>res://scenes/card_ui/card_states/card_aiming_state.gd
+classic_style_box.tres::StyleBoxFlat::9005712345048186074::1712863167::0::1::::<><>::
+::res://scenes/card_ui/card_states/::1715789891
+card_aiming_state.gd::GDScript::-1::1715789890::0::1::::<>CardState<>::
+card_base_state.gd::GDScript::-1::1715789890::0::1::::<>CardState<>::
+card_clicked_state.gd::GDScript::-1::1715789890::0::1::::<>CardState<>::
+card_dragging_state.gd::GDScript::-1::1715789891::0::1::::<>CardState<>::
+card_released_state.gd::GDScript::-1::1715789891::0::1::::<>CardState<>::
+card_state.gd::GDScript::-1::1715789891::0::1::::CardState<>Node<>::
+::res://scenes/enemy/::1716038440
+enemy.gd::GDScript::-1::1716025750::0::1::::Enemy<>Area2D<>::
+enemy.tscn::PackedScene::1840667070380369153::1716038440::0::1::::<><>::uid://bxwwvl163w50d::::res://art/mage skelly.png<>res://scenes/enemy/enemy.gd<>uid://bb3rcs5nqntir::::res://art/arrow.png<>uid://cmug1f16xdx48::::res://scenes/ui/stats_ui.tscn
+enemy_action.gd::GDScript::-1::1715789892::0::1::::EnemyAction<>Node<>::
+enemy_action_picker.gd::GDScript::-1::1715789892::0::1::::EnemyActionPicker<>Node<>::
+enemy_action_picker.tscn::PackedScene::919801416067874597::1713096475::0::1::::<><>::res://scenes/enemy/enemy_action_picker.gd
+enemy_handler.gd::GDScript::-1::1716025847::0::1::::EnemyHandler<>Node2D<>::
+frog.png::CompressedTexture2D::7678484675750208622::1712777627::1712777550::1::::<><>::
+::res://scenes/map/::1715934089
+map.gd::GDScript::-1::1715933093::0::1::::Map<>Node2D<>::
+map.tscn::PackedScene::5789724368138160541::1715934089::0::1::::<><>::res://scenes/map/map.gd<>uid://cdy3uo2nicx3h::::res://battles/battle_stats_pool.tres<>res://scenes/map/map_generator.gd
+map_generator.gd::GDScript::-1::1715849737::0::1::::MapGenerator<>Node<>::
+map_line.tscn::PackedScene::6007834242414212280::1715932950::0::1::::<><>::uid://pgjjsxsrwtqf::::res://art/Mana bottle UI/line.png
+map_room.gd::GDScript::-1::1715789893::0::1::::MapRoom<>Area2D<>::
+map_room.tscn::PackedScene::6539404828402197931::1715932950::0::1::::<><>::uid://c4ito0qfqgu3b::::res://art/Mana bottle UI/skull_map_icon.png<>res://scenes/map/map_room.gd
+::res://scenes/player/::1716038440
+player.gd::GDScript::-1::1715789894::0::1::::Player<>Node2D<>::
+player.tscn::PackedScene::1233993754876306096::1716038440::0::1::::<><>::res://scenes/player/player.gd<>uid://dcuabvc1vpftn::::res://art/frogger.png<>uid://c8sk455mfdnev::::res://art/frog anim/frogger.png<>uid://cmug1f16xdx48::::res://scenes/ui/stats_ui.tscn
+player_handler.gd::GDScript::-1::1716027885::0::1::::PlayerHandler<>Node<>::
+Sprite2D.gd::GDScript::-1::1715789894::0::1::::<>Sprite2D<>::
+::res://scenes/rewards/::1716038441
+battle_reward.gd::GDScript::-1::1716038357::0::1::::BattleReward<>Control<>::
+rewards.tscn::PackedScene::5703792857667775049::1716038441::0::1::::<><>::res://scenes/rewards/battle_reward.gd<>uid://y0ybtns8v84q::::res://main_theme.tres<>uid://0ic17vu4qjp8::::res://scenes/ui/reward_button.tscn<>uid://huvlgub5haaw::::res://art/Mana bottle UI/coin.png<>uid://c2xhttrclo1r7::::res://art/tile_0116.png
+::res://scenes/run/::1716121170
+run.gd::GDScript::-1::1716026573::0::1::::Run<>Node<>::
+run.tscn::PackedScene::3598223515912893158::1716121170::0::1::::<><>::res://scenes/run/run.gd<>uid://coqt6ddxxsk0d::::res://scenes/map/map.tscn<>uid://bkb8unct1bva8::::res://scenes/run/run_startup.tres<>uid://db4mntp5jcshk::::res://scenes/ui/gold_ui.tscn<>uid://c8iww1ssy8m72::::res://button_theme.tres<>uid://cnvjdwdvuf807::::res://scenes/ui/health_ui.tscn<>uid://cs2762dq4nr45::::res://scenes/ui/card_pile_opener.tscn<>uid://y0ybtns8v84q::::res://main_theme.tres<>uid://c2gikbmtandy::::res://scenes/ui/card_pile_view.tscn
+run_startup.tres::Resource/Resource::3092413561258118013::1715186151::0::1::::<><>::uid://bfey8v7aj8qwo::::res://characters/Frog/frog.tres<>res://custom_resources/run_startup.gd
+::res://scenes/shop/::1716038440
+shop.gd::GDScript::-1::1715789894::0::1::::<>Control<>::
+shop.tscn::PackedScene::3594524228723417816::1716038440::0::1::::<><>::res://scenes/shop/shop.gd<>uid://y0ybtns8v84q::::res://main_theme.tres<>uid://c8iww1ssy8m72::::res://button_theme.tres
+::res://scenes/treasure/::1716038440
+treasure.gd::GDScript::-1::1716024931::0::1::::<>Control<>::
+treasure.tscn::PackedScene::2994439597071435::1716038440::0::1::::<><>::res://scenes/treasure/treasure.gd<>uid://y0ybtns8v84q::::res://main_theme.tres<>uid://c8iww1ssy8m72::::res://button_theme.tres
+::res://scenes/ui/::1716121170
+battle_over_panel.gd::GDScript::-1::1715789890::0::1::::BattleOverPanel<>Panel<>::
+battle_over_panel.tscn::PackedScene::5886650587117688837::1716023938::0::1::::<><>::uid://y0ybtns8v84q::::res://main_theme.tres<>res://scenes/ui/battle_over_panel.gd
+battle_ui.gd::GDScript::-1::1716029527::0::1::::BattleUI<>CanvasLayer<>::
+card_menu_ui.gd::GDScript::-1::1715789891::0::1::::CardMenuUI<>CenterContainer<>::
+card_menu_ui.tscn::PackedScene::3405991252427363335::1716038441::0::1::::<><>::uid://y0ybtns8v84q::::res://main_theme.tres<>res://scenes/ui/card_menu_ui.gd<>uid://colal2y07tb0h::::res://characters/Frog/cards/frog_attack.tres<>uid://d1ko1cflvpr6q::::res://scenes/card_ui/classic_style_box.tres<>uid://dkyg5daqq6ra3::::res://art/attack.png
+card_pile_opener.gd::GDScript::-1::1715791140::0::1::::CardPileOpenerrrrr<>TextureButton<>::
+card_pile_opener.tscn::PackedScene::6093978479141096884::1716023938::0::1::::<><>::uid://dexi4nwo6yvm0::::res://art/cardpileUI/card_pile_normal.png<>res://scenes/ui/card_pile_opener.gd
+card_pile_view.gd::GDScript::-1::1715789891::0::1::::CardPileView<>Control<>::
+card_pile_view.tscn::PackedScene::196495002292453154::1716038441::0::1::::<><>::uid://y0ybtns8v84q::::res://main_theme.tres<>res://scenes/ui/card_pile_view.gd<>uid://bor5gceevqpo6::::res://scenes/ui/card_menu_ui.tscn
+card_rewards.gd::GDScript::-1::1715789891::0::1::::CardRewards<>ColorRect<>::
+card_rewards.tscn::PackedScene::801694837586112447::1716038441::0::1::::<><>::res://scenes/ui/card_rewards.gd<>uid://bor5gceevqpo6::::res://scenes/ui/card_menu_ui.tscn<>uid://c8iww1ssy8m72::::res://button_theme.tres<>uid://colal2y07tb0h::::res://characters/Frog/cards/frog_attack.tres<>uid://q78qa7inpqme::::res://characters/Frog/cards/frog_potatoes.tres<>uid://dl60kmo2dncak::::res://characters/Frog/cards/frog_hydrate.tres
+frogger.png::CompressedTexture2D::7294069382890776194::1713959996::1713959997::1::::<><>::
+gold_ui.gd::GDScript::-1::1715789893::0::1::::GoldUI<>HBoxContainer<>::
+gold_ui.tscn::PackedScene::7290070691309938656::1716023938::0::1::::<><>::res://scenes/ui/gold_ui.gd<>uid://huvlgub5haaw::::res://art/Mana bottle UI/coin.png<>uid://y0ybtns8v84q::::res://main_theme.tres
+hand.gd::GDScript::-1::1715789893::0::1::::Hand<>HBoxContainer<>::
+health_ui.gd::GDScript::-1::1715957042::0::1::::HealthUI<>HBoxContainer<>::
+health_ui.tscn::PackedScene::5729201238961713854::1716023938::0::1::::<><>::uid://3ihswpx8siu1::::res://art/heart_icon.png<>res://scenes/ui/health_ui.gd<>uid://y0ybtns8v84q::::res://main_theme.tres
+main_menu.gd::GDScript::-1::1716039163::0::1::::<>Control<>::
+main_menu.tscn::PackedScene::3862765464850753001::1716121170::0::1::::<><>::res://scenes/ui/main_menu.gd<>uid://y0ybtns8v84q::::res://main_theme.tres<>uid://dobp4pbmhv2x7::::res://art/Backgrounds/startScreen.png<>uid://bxwwvl163w50d::::res://art/mage skelly.png<>uid://bg48gaqt22so1::::res://fonts/KiwiSoda.ttf<>uid://bl34hol2a8nym::::res://enemies/fire/fireskelly.png<>uid://v3tmw3eb2lnt::::res://art/frog.png
+mana_ui.gd::GDScript::-1::1715789893::0::1::::ManaUI<>TextureRect<>::
+mana_ui.tscn::PackedScene::6628755772483060344::1715156365::0::1::::<><>::uid://y0ybtns8v84q::::res://main_theme.tres<>uid://bphojnln4ssv::::res://art/mana bottle.png<>res://scenes/ui/mana_ui.gd<>uid://bfey8v7aj8qwo::::res://characters/Frog/frog.tres
+reward_button.gd::GDScript::-1::1715789894::0::1::::RewardButton<>Button<>::
+reward_button.tscn::PackedScene::1771405691746547411::1715932950::0::1::::<><>::res://scenes/ui/reward_button.gd<>uid://c8iww1ssy8m72::::res://button_theme.tres<>uid://huvlgub5haaw::::res://art/Mana bottle UI/coin.png<>uid://y0ybtns8v84q::::res://main_theme.tres
+stats_ui.gd::GDScript::-1::1715955957::0::1::::StatsUI<>HBoxContainer<>::
+stats_ui.tscn::PackedScene::5656806082942957247::1716023938::0::1::::<><>::uid://y0ybtns8v84q::::res://main_theme.tres<>res://scenes/ui/stats_ui.gd<>uid://cxvsst8if0b3b::::res://art/shield_icon.png<>uid://cnvjdwdvuf807::::res://scenes/ui/health_ui.tscn
+::res://script_templates/::1714409295
+::res://script_templates/Node/::1715789892
+card_template.gd::GDScript::-1::1715789891::0::1::::<>Card<>::
+effect_template.gd::GDScript::-1::1715789892::0::1::::<>RefCounted<>::
+enemy_action_template.gd::GDScript::-1::1715789892::0::1::::MyAwesomeEffect<>Effect<>::

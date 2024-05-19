@@ -1,0 +1,16 @@
+res://scenes/run/run.tscn
+res://characters/Frog/cards/frog_attack.tres
+res://characters/Frog/cards/frog_block.tres
+res://characters/Frog/cards/frog_hydrate.tres
+res://characters/Frog/cards/frog_potatoes.tres
+res://characters/Frog/frog_card_reward_pool.tres
+res://characters/Frog/starting_deck.tres
+res://button_theme.tres
+res://battles/battle_stats_pool.tres
+res://scenes/ui/main_menu.tscn
+res://scenes/ui/mana_ui.gd
+res://scenes/rewards/battle_reward.gd
+res://scenes/map/map_room.gd
+res://enemies/skelly_normal/skelly_normal_enemy.tres
+res://enemies/skelly_mage/skelly_mage.tres
+res://scenes/ui/battle_over_panel.gd
